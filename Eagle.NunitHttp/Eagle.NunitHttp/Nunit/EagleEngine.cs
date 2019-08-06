@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using NUnit.Engine;
 using WonderTools.Eagle.Contract;
 
 namespace WonderTools.Eagle.Nunit

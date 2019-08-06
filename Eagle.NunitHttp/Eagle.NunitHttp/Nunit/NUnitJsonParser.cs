@@ -1,7 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using AutoMapper;
 using Newtonsoft.Json;
 using WonderTools.Eagle.Contract;
+using WonderTools.Eagle.Nunit.NUnitDiscovery;
+using WonderTools.Eagle.Nunit.NUnitResult;
 
 namespace WonderTools.Eagle.Nunit
 {
