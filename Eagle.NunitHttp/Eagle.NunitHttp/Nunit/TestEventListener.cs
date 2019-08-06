@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Engine;
 
-namespace WonderTools.Eagle.Nunit
+namespace WonderTools.Eagle.NUnit
 {
     public class TestEventListener : ITestEventListener
     {

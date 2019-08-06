@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace WonderTools.Eagle.Nunit.NUnitDiscovery
+namespace WonderTools.Eagle.NUnit.NUnitDiscovery
 {
     public class NUnitTestCase
     {

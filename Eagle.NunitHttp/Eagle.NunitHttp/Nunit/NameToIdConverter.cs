@@ -1,4 +1,4 @@
-﻿namespace WonderTools.Eagle.Nunit
+﻿namespace WonderTools.Eagle.NUnit
 {
     public static class NameToIdConverter
     {
