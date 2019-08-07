@@ -4,6 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>WonderTools.Eagle.NunitHttp</AssemblyName>
     <RootNamespace>WonderTools.Eagle.NunitHttp</RootNamespace>
+    <Authors>WonderTools</Authors>
+    <PackageProjectUrl>https://github.com/WonderTools/Eagle.NunitHttp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/WonderTools/Eagle.NunitHttp</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
